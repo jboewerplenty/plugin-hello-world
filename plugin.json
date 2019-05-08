@@ -2,7 +2,7 @@
       "name":"HelloWorldClone",
       "description":"My first plugin Clone!",
       "namespace":"HelloWorldClone",
-      "author":"Christian Moll",
+      "author":"Jonas Böwer",
       "type":"template",
-      "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
+      "serviceProvider":"HelloWorldClone\\Providers\\HelloWorldServiceProvider"
 }
