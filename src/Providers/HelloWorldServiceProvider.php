@@ -1,11 +1,11 @@
 <?php
-namespace HelloWorld\Providers;
+namespace HelloWorldClone\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
 /**
  * Class HelloWorldServiceProvider
- * @package HelloWorld\Providers
+ * @package HelloWorldClone\Providers
  */
 class HelloWorldServiceProvider extends ServiceProvider
 {
